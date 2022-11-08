@@ -2,7 +2,7 @@
 
 
 
-![Connahs Quay Cobras](Cobras.png)
+![Connahs Quay Cobras](cobras.png)
 
 
 
